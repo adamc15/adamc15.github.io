@@ -1,7 +1,10 @@
 # WHAT IS AN NFT?
 ## Learn More About Blockchain Technology & NFTs
 
-### Non-Fungible Tokens
+
+
+
+### SO, What are Non-Fungible Tokens?
 An NFT is a unit of data stored on a digital ledger, called a blockchain, which can be sold and traded. The NFT can be associated with a particular digital or physical asset (such as a file or a physical object) and a license to use the asset for a specified purpose. NFTs (and the associated license to use, copy or display the underlying asset) can be traded and sold on digital markets.
 
 ### How do NFTs Work?
@@ -17,5 +20,16 @@ NFTs function like cryptographic tokens, but, unlike cryptocurrencies like Bitco
 NFTs are currently taking the digital art and collectibles world by storm. Digital artists are seeing their lives change thanks to huge sales to a new crypto-audience. And celebrities are joining in as they spot a new opportunity to connect with fans. But digital art is only one way to use NFTs. Really they can be used to represent ownership of any unique asset, like a deed for an item in the digital or physical realm.
 
 If Andy Warhol had been born in the late 90s, he probably would have minted Campbell's Soup as an NFT. It's only a matter of time before Kanye puts a run of Yeezys on Ethereum. And one day owning your car might be proved with an NFT.
+
+<br/><br/>
+
+## Did You See My License Plate in the Wild?
+<img src="images/nftplate.png" height="400px"> 
+
+### Is it nerdy? Hell yes! 
+
+### Did it potentially make someone who knew nothing of NFTs and Blockchain learn something new? Well... I hope so. 
+
+#### If you want to <a href="mailto:zidd1772b@relay.firefox.com">drop me a message</a> to say hello, please do. I hope my driving was ok, if not, please accept my apologies. 
 
 
