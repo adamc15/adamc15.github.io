@@ -1,5 +1,3 @@
-## NFT Plate
-### Learn More About NFTs
 
 
 ### You may have seen my plate and wondered what it meant. 
