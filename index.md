@@ -1,5 +1,8 @@
+## NFT Plate
+### Learn More About NFTs
 
-## Did you see my plate and wonder what it meant? 
+
+### You may have seen my plate and wondered what it meant. 
 <img src="images/nftplate.png" height="200px"> 
 
 ## What are Non-Fungible Tokens? (NFTs)
