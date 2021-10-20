@@ -1,5 +1,5 @@
 
-## Did You See My License Plate While Driving? 
+## Did you see my license plate and wonder what it meant? 
 <img src="images/nftplate.png" height="300px"> 
 
 ## What are Non-Fungible Tokens? (NFTs)
