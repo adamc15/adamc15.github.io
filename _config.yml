@@ -1,5 +1,4 @@
-remote_theme: pages-themes/tactile@v0.2.0
+theme: jekyll-theme-tactile
 title: NFT Plate
-description: Find out what it means
+description: Learn More About NFTs & Blockchain
 show_downloads: false
-
