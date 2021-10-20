@@ -1,5 +1,4 @@
-# WHAT IS AN NFT?
-## Learn More About Blockchain Technology & NFTs
+
 
 <img src="images/bored-ape-nft.jpeg" height="400px">
 
