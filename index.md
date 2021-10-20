@@ -1,5 +1,6 @@
 
-
+## Did You See My License Plate While Driving? 
+<img src="images/nftplate.png" height="300px"> 
 
 ## What are Non-Fungible Tokens? (NFTs)
 NFTs are currently taking the digital art and collectibles world by storm. Digital artists are seeing their lives change thanks to huge sales to a new crypto-audience. And celebrities are joining in as they spot a new opportunity to connect with fans. But digital art is only one way to use NFTs. Really they can be used to represent ownership of any unique asset, like a deed for an item in the digital or physical realm.
@@ -23,10 +24,6 @@ NFTs function like cryptographic tokens, but, unlike cryptocurrencies like Bitco
 - [The Economist - What is an NFT?](https://www.economist.com/the-economist-explains/2021/10/12/what-is-an-nft)
 
 
-<br/><br/>
-
-## Did You See My License Plate While Driving? 
-<img src="images/nftplate.png" height="300px"> 
 
 #### Is having an NFT license plate and whole website about it nerdy? <span style="color:maroon;">Hell YES it is!</span> Did it teach you something new? <span style="color:maroon;">I hope so!</span> So why did I do it? <span style="color:maroon;">I love helping people learn about blockchain!</span> 
 
