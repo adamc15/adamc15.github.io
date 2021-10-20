@@ -1,5 +1,5 @@
-theme: jekyll-theme-tactile
-title: My NFT License Plate
-description: What does it mean anyways?
+remote_theme: pages-themes/tactile@v0.2.0
+title: [NFT Plate - Learn More]
+description: [What does NFT mean?]
 show_downloads: false
 
