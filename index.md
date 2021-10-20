@@ -1,6 +1,7 @@
 # WHAT IS AN NFT?
 ## Learn More About Blockchain Technology & NFTs
 
+<img src="images/bored-ape-nft.jpeg" height="600px">
 
 
 
@@ -26,10 +27,13 @@ If Andy Warhol had been born in the late 90s, he probably would have minted Camp
 ## Did You See My License Plate in the Wild?
 <img src="images/nftplate.png" height="400px"> 
 
-### Is it nerdy? Hell yes! 
+### Is it nerdy? 
+#### Hell yes! 
 
-### Did it potentially make someone who knew nothing of NFTs and Blockchain learn something new? Well... I hope so. 
+### Did it potentially make someone who knew nothing of NFTs and Blockchain learn something new?
+#### I hope so! 
 
-#### If you want to <a href="mailto:zidd1772b@relay.firefox.com">drop me a message</a> to say hello, please do. I hope my driving was ok, if not, please accept my apologies. 
+#### If you want to <a href="mailto:zidd1772b@relay.firefox.com">drop me a message</a> to say hello, please do. 
+_I hope my driving was ok, if not, please accept my apologies._
 
 
