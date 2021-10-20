@@ -1,7 +1,8 @@
 
 
-## You may have seen my plate and wondered what it meant. 
+
 <img src="images/nftplate.png" height="200px"> 
+### You may have seen my plate and wondered what it meant. 
 
 ## What are Non-Fungible Tokens? (NFTs)
 NFTs are currently taking the digital art and collectibles world by storm. Digital artists are seeing their lives change thanks to huge sales to a new crypto-audience. And celebrities are joining in as they spot a new opportunity to connect with fans. But digital art is only one way to use NFTs. Really they can be used to represent ownership of any unique asset, like a deed for an item in the digital or physical realm.
