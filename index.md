@@ -5,9 +5,10 @@
 NFTs are currently taking the digital art and collectibles world by storm. Digital artists are seeing their lives change thanks to huge sales to a new crypto-audience. And celebrities are joining in as they spot a new opportunity to connect with fans. But digital art is only one way to use NFTs. Really they can be used to represent ownership of any unique asset, like a deed for an item in the digital or physical realm.
 
 If Andy Warhol had been born in the late 90s, he probably would have minted Campbell's Soup as an NFT. It's only a matter of time before Kanye puts a run of Yeezys on Ethereum. And one day owning your car might be proved with an NFT.
-### [Read More at the Ethereum Foundation](https://ethereum.org/en/nft/)
+#### [Read More at the Ethereum Foundation](https://ethereum.org/en/nft/)
 
-### "Bored Ape" Digital Art NFT - [View Live NFT Here](https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/3749)
+<br/>
+#### "Bored Ape" Digital Art NFT - [View Live NFT Here](https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/3749)
 <img src="images/bored-ape-nft-3749.png" height="300px">
 ##### Currently selling for 35 ETH (~$143,000 USD)
 <br/>
