@@ -26,7 +26,7 @@ If Andy Warhol had been born in the late 90s, he probably would have minted Camp
 ## Did You See My License Plate While Driving? 
 <img src="images/nftplate.png" height="300px"> 
 
-#### Is having an NFT license plate and whole website about it nerdy? <span style="color:red;">Hell YES it is!</span> Did it teach you something new? <span style="color:red;">I hope so! I love helping people learn more about blockchain!</span> 
+#### Is having an NFT license plate and whole website about it nerdy? <span style="color:maroon;">Hell YES it is!</span> Did it teach you something new? <span style="color:maroon;">I hope so!</span> So why did I do it? <span style="color:maroon;">I love helping people learn about blockchain!</span> 
 
 ## <a href="mailto:zidd1772b@relay.firefox.com?subject=Saw Your NFT Plate">Drop me a message to say hello! </a>
 _I hope my driving was ok, if not, please accept my apologies._
