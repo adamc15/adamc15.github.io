@@ -1,6 +1,6 @@
-# NFT Plate - Find Out More About NFTs
+NFT Plate - Find Out More About NFTs
 
-### You may have seen my license plate and wondered what it meant. 
+#### Did you see my license plate and wonder what it meant? 
 
 
 <img src="images/nftplate.png" height="100px"> 
