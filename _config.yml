@@ -1,4 +1,10 @@
-theme: jekyll-theme-tactile
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+layout: splash
 title: NFT Plate
 description: Learn More About NFTs & Blockchain
-show_downloads: false
+url: "https://nftplate.info/"
+has_toc: false
+search_enabled: false
+footer_content: "Open Blockchain for Asset Disposition Alliance (OBADA)"
+plugins: ['jekyll-include-cache']
