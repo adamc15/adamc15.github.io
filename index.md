@@ -31,7 +31,7 @@ NFTs function like cryptographic tokens, but, unlike cryptocurrencies like Bitco
 
 #### Is having an NFT license plate and whole website about it nerdy? <span style="color:royal blue;">Hell YES it is!</span> Did it teach you something new? <span style="color:royal blue;">I hope so!</span> So why did I do it? <span style="color:royal blue;">I love helping people learn about blockchain!</span> 
 
-## <a href="mailto:zidd1772b@relay.firefox.com?subject=Saw Your NFT Plate">Drop me a message to say hello! </a>
+## <a href="mailto:nftplate15@gmail.com?subject=Saw Your NFT Plate">Drop me a message to say hello! </a>
 _I hope my driving was ok, if not, please accept my apologies._
 
 
