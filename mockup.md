@@ -4,24 +4,20 @@ layout: splash
 hidden: true
 ---
 
-<div class="block-warning">
-    <p><img src="/assets/svg/construction-worker.svg" alt="" width="60" height="60"><em>This website is a work in progress, built by volunteers.  If you'd like to improve it, please volunteer to help!</em></p>
-</div>
-
 ## Welcome to OBADA
 
-OBADA is an industry coalition made up of stakeholders in the IT asset disposition (ITAD) industry.  We have gotten together to creat a public utility that will allow any enterprise or supply chain systems to digitally represent their physical assets as NFTs (pNFTs), in effect creating a decentralized "Carfax™" for physical assets.   This allows for permanent, interoperable recordkeeping of any asset, from manufacturer the recycler.   And it gives the world a standard interface for ordering and tracking end-of-life services such as data destruction and recycling.
+OBADA is an industry coalition made up of stakeholders in the IT asset disposition (ITAD) industry.  We have gotten together to create a public utility that will allow any enterprise or supply chain systems to digitally represent their physical assets as NFTs (pNFTs), in effect creating a decentralized "Carfax™" for physical assets. This allows for permanent, interoperable recordkeeping of any asset, from manufacturer the recycler. And it gives the world a standard interface for ordering and tracking end-of-life services such as data destruction and recycling.
 
-"OBADA" consist of two organizations; the nonprofit OBADA Foundation and the OBADA DAO.  The foundation is working with the International Standards Organization (ISO) to develop a standard for creating and storing digital representions of physical assets in a blockchain.   The OBADA DAO is a decentralized autonomous organization developing decentralized registry based on the standard to store the Carfax-like digital representations (i.e. the pNFTs).
+<!-- "OBADA" consist of two organizations; the nonprofit OBADA Foundation and the OBADA DAO.  The foundation is working with the International Standards Organization (ISO) to develop a standard for creating and storing digital representions of physical assets in a blockchain.   The OBADA DAO is a decentralized autonomous organization developing decentralized registry based on the standard to store the Carfax-like digital representations (i.e. the pNFTs). -->
 
-## Quick Links
+<!-- ## Quick Links
 * [OBADA Documents Site](https://www.obadafoundation.org) - Information repo for the foundation and DAO
 * [OBADA Meeting Calendar](https://www.obadafoundation.org/calendar) - Foundation and DAO
 * [Past Meeting Minutes](https://www.obadafoundation.org/meetings/) - Foundation and DAO
 * [Join the DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/) - Companies in the asset disposition sector only.
 * [DAO Membership Application](https://www.obadafoundation.org/dao/membership-application/) - Please complete this if your company is on the waitlist.
 * Explore the ITAD Blockchain - very soon
-* **[Frequently Asked Questions](https://www.obadafoundation.org/faq)**
+* **[Frequently Asked Questions](https://www.obadafoundation.org/faq)** 
 
 ## The OBADA DAO
 
@@ -32,22 +28,19 @@ The OBADA DAO (Decentralized Autonomous Organization) is a coalition of stakehol
 * [DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/)
 
 ## The OBADA Foundation
-[The OBADA Foundation](https://www.obadafoundation.org/about), a 501(c)(3) nonprofit, is developing an [an open standard](https://www.obada.io/standard/) called "Representing Physical Assets using Non-Fungible Tokens (NFTs)" in conjunction with the International Standards Organization [ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html).  This open blockchain protocol will allow any organization or ecosystem to establish their own NFT implementation for their own category of physical assets which will be interoperable across all categories.
+[The OBADA Foundation](https://www.obadafoundation.org/about), a 501(c)(3) nonprofit, is developing an [an open standard](https://www.obada.io/standard/) called "Representing Physical Assets using Non-Fungible Tokens (NFTs)" in conjunction with the International Standards Organization [ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html).  This open blockchain protocol will allow any organization or ecosystem to establish their own NFT implementation for their own category of physical assets which will be interoperable across all categories. --> 
 
 ## The ITAD Blockchain
-The OBADA DAO is creating a public utility, loosely called "the ITAD Blockchain", based on the physical NFT (pNFT) standard.
-The utility is a decentralized registry to store the pNFTs data, with standard methods for connecting to the backend systems of the actors and software used by the asset disposition sector.    The registry acts as a "bridge" between the real-world asset and it's digital representation which can be embedded in a ERC-721 or any other form of NFT.
-
-This utility will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recycler. and it creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
+The OBADA DAO is creating a decentralized registry to store pNFTs, with methods for connecting to the backend systems of the actors and software used by the asset disposition sector to write, read and transfer data. The registry acts as a "bridge" between the real-world asset and it's digital representation. (pNFT) This will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recycler. and creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
 
 * [Github Source Code Repo](https://github.com/obada-foundation/)
 * Reference Design / Demo Site - very soon
 * [Blockchain Explorer] - coming soon
 
 
-## Why join the DAO
- 
-Besides obtaining a "seat at the table" shaping in the future of our industry, there are three main reaons to join the DAO: governance rights, operational rights, and economic rights.
+## Join the DAO to get Involved
+
+To obtain a "seat at the table" and help shape the future of our industry become an OBADA DAO member. As a DAO Member you will get three distinct sets of rights: governance rights, operational rights, and economic rights.
 * Read More - See below (or needs a separate webpage).
 * Read the Waitlist Announcement - Needs a webpage
 * [Join the DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/)
@@ -57,11 +50,9 @@ Besides obtaining a "seat at the table" shaping in the future of our industry, t
 <hr>
 <hr>
 
-## The rest of this page is a work in progress
-
-The intent is this will become a high-level explainer.
+<!-- The intent is this will become a high-level explainer.
 And /or a "why join the DAO" page.
-* For facts or operational information visit the [the documentation site](https://www.obadafoundation.org/).
+* For facts or operational information visit the [the documentation site](https://www.obadafoundation.org/). --> 
 
 <hr>
 
