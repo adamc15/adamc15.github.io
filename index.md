@@ -1,62 +1,3 @@
-# NFT Plate - Explore the World of NFTs
-
-## Introduction
-
-Have you ever seen an NFT license plate and wondered what it's all about? Welcome to NFT Plate, your gateway to the fascinating world of Non-Fungible Tokens (NFTs).
-
-![NFT Plate](images/nftplate.png)
-
-## What Are Non-Fungible Tokens (NFTs)?
-
-NFTs are revolutionizing the digital art and collectibles industry, transforming the lives of digital artists and creating new opportunities for celebrities to connect with their fans. But NFTs are not limited to art; they can represent ownership of unique assets in both the digital and physical realms.
-
-Imagine if Andy Warhol were born in the late '90s; he might have minted his iconic works as NFTs. It's only a matter of time before we see Kanye West tokenizing his Yeezys on Ethereum. NFTs could even prove ownership of your car one day.
-
-Learn more about NFTs at the [Ethereum Foundation](https://ethereum.org/en/nft/).
-
-### "Bored Ape" Digital Art NFT
-
-Explore a live NFT auction: [View Live NFT Here](https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/3749)
-
-![Bored Ape NFT](images/bored-ape-nft-3749.png)
-
-Currently selling for 35 ETH (~$143,000 USD).
-
-## How Do NFTs Work?
-
-NFTs are unique units of data stored on a blockchain, enabling them to be bought and traded. Each NFT can represent a specific digital or physical asset along with a license for its use. Unlike cryptocurrencies like Bitcoin, NFTs are not interchangeable, as each may represent a different asset with its own value.
-
-NFTs are created through cryptographic transactions on blockchains, providing a secure and trackable ownership system. However, it's crucial to maintain data links to preserve access to the associated assets.
-
-## NFTs in the Media
-
-Stay informed about NFTs with these articles:
-
-- [The Verge - What is an NFT](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
-- [Forbes - What You Need To Know About Non-Fungible Tokens (NFTs)](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
-- [BBC - What are NFTs and why are some worth millions?](https://www.bbc.com/news/technology-56371912)
-- [The Economist - What is an NFT?](https://www.economist.com/the-economist-explains/2021/10/12/what-is-an-nft)
-
-## Why NFT Plate?
-
-Is it nerdy to have an NFT license plate and a whole website about it? <span style="color:royalblue;">Absolutely!</span> Did it teach you something new? <span style="color:royalblue;">I hope so!</span> So why did I do it? <span style="color:royalblue;">Because I love helping people learn about blockchain!</span>
-
-## Contact Us
-
-Have questions or want to say hello? Feel free to drop us a message at [nftplate15@gmail.com](mailto:nftplate15@gmail.com).
-
-## Donations Welcome
-
-Support NFT Plate with your donations. Here's our ETH address:
-
-![QR Code Eth Payment Address](images/nft-plate-eth-address.png)
-
-ETH Address: 0x882b2C88FF274ddb44150550EA2ef29716Ed1C8a
-
-
-
-<!-- 
-
 NFT Plate - Find Out More About NFTs
 
 #### Did you see my license plate and wonder what it meant? 
@@ -96,5 +37,5 @@ _I hope my driving was ok, if not, please accept my apologies._
 
 ## Donations Welcome - ETH Address: 0x882b2C88FF274ddb44150550EA2ef29716Ed1C8a
 <img src="images/nft-plate-eth-address.png" height="150px" alt="QR Code Eth Payment Address">
---> 
+
 
